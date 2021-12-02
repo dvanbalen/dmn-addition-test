@@ -2,11 +2,11 @@
   <dmn:extensionElements/>
   <dmn:inputData id="_CB65C5F5-30F3-4F09-9D91-0E3972D48143" name="Input1">
     <dmn:extensionElements/>
-    <dmn:variable id="_8643EE8B-6DEB-4BF7-B7BE-8DBD81FB9544" name="Input1"/>
+    <dmn:variable id="_8643EE8B-6DEB-4BF7-B7BE-8DBD81FB9544" name="Input1" typeRef="number"/>
   </dmn:inputData>
   <dmn:inputData id="_310D6105-0BD7-46D3-A035-08BD1D61A13D" name="Input2">
     <dmn:extensionElements/>
-    <dmn:variable id="_742FD12B-3010-4DA2-A60C-09E709E42D73" name="Input2"/>
+    <dmn:variable id="_742FD12B-3010-4DA2-A60C-09E709E42D73" name="Input2" typeRef="number"/>
   </dmn:inputData>
   <dmn:decision id="_0362EB5D-70B4-4B17-AC61-AA835DE0A3B2" name="Greater than 5">
     <dmn:extensionElements/>
